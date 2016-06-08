@@ -44,7 +44,7 @@ Notation
 --------
 
 | Property | Value
-| ---
+| -------- | -----
 | Key | A♭ minor
 | Tempo | ♩. = 133 bpm
 | Chord Progression | A♭ minor
@@ -53,8 +53,8 @@ Notation
 Raga Details
 ------------
 
-| Type | Value
-| ---
+| Property | Value
+| -------- | -----
 | Governing emotion | don't know
 | Time of day | don't know
 | King and queen notes (vadi and samvadi) | don't know
